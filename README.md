@@ -16,6 +16,7 @@ You can then open `gbc-output.txt` and copy the contents to paste into the [deco
 
 *Note:* The decoder above seems to have broken for me recently, and no longer supports multiple images properly. I'll probably add my copy that does work to this repository soon.
 
+*Note 2:* Ah, there was a format change in the code that broke things... I'll fix it.
 
 
 
