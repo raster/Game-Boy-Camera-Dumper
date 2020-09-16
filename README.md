@@ -15,15 +15,6 @@ When you are done with all your transfers just hit `Ctrl C` to end the script.
 You can then open `gbc-output.txt` and copy the contents to paste into the [decoder](https://github.com/mofosyne/arduino-gameboy-printer-emulator/tree/master/gbp_decoder)
 
 
-## 2020-09-15 Update
-
-This code works with the `gbp_emulator_v1` code, but not the `gbp_emulator_v2`
-
-https://github.com/mofosyne/arduino-gameboy-printer-emulator/tree/master/gbp_emulator
-
-I'll probably update this to work with the v2 code soon.
-
-
 
 --- 
 
