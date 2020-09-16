@@ -1,4 +1,4 @@
-### Game Boy Camera Dumper
+# Game Boy Camera Dumper
 
 This script captures serial data sent from a Game Boy and saves it to disk.
 
@@ -14,9 +14,14 @@ When you are done with all your transfers just hit `Ctrl C` to end the script.
 
 You can then open `gbc-output.txt` and copy the contents to paste into the [decoder](https://github.com/mofosyne/arduino-gameboy-printer-emulator/tree/master/gbp_decoder)
 
-*Note:* The decoder above seems to have broken for me recently, and no longer supports multiple images properly. I'll probably add my copy that does work to this repository soon.
 
-*Note 2:* Ah, there was a format change in the code that broke things... I'll fix it.
+## 2020-09-15 Update
+
+This code works with the `gbp_emulator_v1` code, but not the `gbp_emulator_v2`
+
+https://github.com/mofosyne/arduino-gameboy-printer-emulator/tree/master/gbp_emulator
+
+I'll probably update this to work with the v2 code soon.
 
 
 
