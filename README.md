@@ -4,7 +4,7 @@ This Python script captures serial data sent from a Game Boy and saves it to dis
 
 On macOS I typically type the following:
 
-`python3 gbcdumper.py /dev/tty.wchusbserialfa440`
+`python3 gbc-dumper.py /dev/tty.wchusbserialfa440`
 
 The /dev/tty.wchusbserialfa440 specifies the USB port. This will be different depending on your Arduino, different on different machines, and even more different on Windows or Linux.
 
