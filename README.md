@@ -12,9 +12,9 @@ When the script runs it will show the output in the terminal, and also dump the 
 
 When you are done with all your transfers just hit `Ctrl C` to end the script.
 
-You can then open `gbc-output.txt` and copy the contents to paste into the [decoder](https://github.com/mofosyne/arduino-gameboy-printer-emulator/tree/master/gbp_decoder)
+You can then open `gbc-output.txt` in your favorite text editor and copy the contents to paste into the [decoder](https://github.com/mofosyne/arduino-gameboy-printer-emulator/tree/master/gbp_decoder).
 
-The file `gbc-output.txt` can be deleted when you are done and it will be created fresh the next time you run the script. If you don't delete it, it will just keep appending data each time you run the script. Do what you want.
+The file `gbc-output.txt` can be deleted when you are done and it will be created fresh the next time you run the script. If you don't delete it, it will just keep appending data each time you run the script. Do what you want with that feature... the choice is yours. :)
 
 
 --- 
