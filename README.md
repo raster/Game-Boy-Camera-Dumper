@@ -19,10 +19,10 @@ The file `gbc-output.txt` can be deleted when you are done and it will be create
 
 --- 
 
-Pete Prodoehl
+**Pete Prodoehl**
 
-Game Boy Camera Photos: http://photos.rasterweb.net/
+GBC Photos: http://photos.rasterweb.net/
 
-<pete@2xlnetworks.com>
+Contact: <pete@2xlnetworks.com>
 
 
