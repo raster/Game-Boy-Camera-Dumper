@@ -16,7 +16,9 @@ parser.add_argument('device_file',
         help='serial device path')
 args = parser.parse_args()
 
-print(args.device_file)
+print("Ready to read data from " + args.device_file + "\n")
+
+print("When you are done printing your photos press CTRL-C to end the program.\n")
 
 # open an output file
 f = open('gbc-output.txt','a')
@@ -49,5 +51,6 @@ ser.close()
 f.close()
 
 # end the madness
-print("\nTransfer complete\n")
+print("\nTransfer complete!\n")
 
+print("Your images have been saved to gbc-output.txt \n")
